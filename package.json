@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fredowashere/node-fetch-event-source/issues"
   },
-  "homepage": "https://github.com/fredowashere/node-fetch-event-source#readme"
+  "homepage": "https://github.com/fredowashere/node-fetch-event-source#readme",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
 }
