@@ -22,7 +22,7 @@ npm install node-fetch-event-source
 ```js
 const fetch = require("./node-fetch-event-source");
 
-await fetchEventSource("/api/sse", {
+await fetch("/api/sse", {
     onmessage(ev) {
         console.log(ev.data);
     }
