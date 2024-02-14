@@ -1,0 +1,23 @@
+{
+  "name": "node-fetch-event-source",
+  "version": "1.0.0",
+  "description": "This is my attempt to make node-fetch support event source.",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredowashere/node-fetch-event-source.git"
+  },
+  "keywords": [
+    "node fetch",
+    "event source"
+  ],
+  "author": "Federico Trotta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredowashere/node-fetch-event-source/issues"
+  },
+  "homepage": "https://github.com/fredowashere/node-fetch-event-source#readme"
+}
