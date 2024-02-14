@@ -1,6 +1,6 @@
 {
   "name": "node-fetch-event-source",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my attempt to make node-fetch support event source.",
   "main": "fetch.js",
   "scripts": {
