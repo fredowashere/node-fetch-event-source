@@ -55,7 +55,7 @@ await fetch(
         signal: controller.signal,
         method: "POST",
         headers: {
-            Authorization: `Bearer ${token}`,
+            Authorization: `Bearer ${<<< YOUR AUTH TOKEN HERE >>>}`,
         },
         body: JSON.stringify(<<< YOUR JSON BODY HERE >>>);
     }
